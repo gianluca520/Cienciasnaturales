@@ -1,0 +1,14 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+
+header h1, 
+header h2, 
+header p {
+    color: blue;
+}
+
+footer p {
+    color: red;
+}
